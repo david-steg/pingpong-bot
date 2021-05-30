@@ -1,6 +1,10 @@
 # pingpong-bot
 Check your server status and send a message with telegram
 
+I'm a Shell Noob.<br>
+All critic are Welcome !<br>
+Feel Free to Commit some Optimization.
+
 ## Tutorial
 
 ### Step 1: 
